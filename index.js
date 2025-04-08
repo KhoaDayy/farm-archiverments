@@ -1,3 +1,2 @@
-console.log("Hello World")
-console.log("Hello World2")
-console.log("Hello World3")
+const hw = "Hello World"
+console.log(hw)
